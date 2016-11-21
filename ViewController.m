@@ -27,7 +27,7 @@
     [mulArr addObject:@"2"];
     NSLog(@"array1=%@",self.array1);
     NSLog(@"array2=%@",self.array2);
-    NSLog(@"ffffff");
+ 
 }
 
 
